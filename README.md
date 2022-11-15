@@ -11,7 +11,7 @@ Because moralis v2 no longer supports local web3 servers, we will have to set up
 I have created a github repository with the files for my dapp along with a screenshot of my localhost.
 https://github.com/jpriyam/dapp
 Post that I cloned the github repository provided in the youtube video desccription.
-The I speccified the 
+Then I specified the 
 - Moralis Secret
 
 - Web3 Api Key
@@ -24,3 +24,5 @@ npm install npm run build Step 5: Launched the app and logged in to Moralis
 I ran the app with the npm run dev command, filled out the form, and clicked the Connect Metamask button.
 
 I was getting an error while logging in due to a mismatch between moralis versions and javascript versions as a result I could not entirely complete the experiment.
+I also used the documentation that is updated but the information available was incomplete 
+https://docs.moralis.io/docs/your-first-dapp
